@@ -1,2 +1,2 @@
 # jianpu.js
-Render jianpu (a.k.a. numbered musical notation) in Javascript
+Render jianpu (简谱) a.k.a. numbered musical notation in Javascript
